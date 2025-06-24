@@ -5,7 +5,6 @@ gameid,url,price,currency,enabled,show_from
 3712,https://www.usedgames.ca/tac-air.html?source=bgg,49.95,CAD,1,1
 1681,https://www.usedgames.ca/tokyo-express.html?source=bgg,99.95,CAD,1,1
 2407,https://www.usedgames.ca/sorry.html?source=bgg,9.95,CAD,1,1
-1475,https://www.usedgames.ca/careers.html?source=bgg,19.95,CAD,1,1
 32253,https://www.usedgames.ca/caveman.html?source=bgg,39.95,CAD,1,1
 6676,https://www.usedgames.ca/sports-franchise.html?source=bgg,29.95,CAD,1,1
 13,https://www.usedgames.ca/the-settlers-of-catan-34291480.html?source=bgg,29.95,CAD,1,1
@@ -48,10 +47,9 @@ gameid,url,price,currency,enabled,show_from
 166532,https://www.usedgames.ca/cubo.html?source=bgg,4.95,CAD,1,1
 2921,https://www.usedgames.ca/the-game-of-life-2007.html?source=bgg,29.95,CAD,1,1
 4574,https://www.usedgames.ca/slang-teasers-34678944.html?source=bgg,44.95,CAD,1,1
-4574,https://www.usedgames.ca/slang-teasers-1st-edition-34716583.html?source=bgg,39.95,CAD,1,1
-3762,https://www.usedgames.ca/mr-diamond.html?source=bgg,34.95,CAD,1,1
+4574,https://www.usedgames.ca/slang-teasers-1st-edition.html?source=bgg,39.95,CAD,1,1
 13137,https://www.usedgames.ca/kids-battle-the-grown-ups.html?source=bgg,29.95,CAD,1,1
-4574,https://www.usedgames.ca/slang-teasers-1st-edition-34716583.html?source=bgg,44.95,CAD,1,1
+4574,https://www.usedgames.ca/slang-teasers-1st-edition.html?source=bgg,44.95,CAD,1,1
 14092,https://www.usedgames.ca/scribbage.html?source=bgg,9.95,CAD,1,1
 4279,https://www.usedgames.ca/flux.html?source=bgg,34.95,CAD,1,1
 349676,https://www.usedgames.ca/iq-2000-transcanada-trivia.html?source=bgg,34.95,CAD,1,1
@@ -262,7 +260,6 @@ gameid,url,price,currency,enabled,show_from
 12,https://www.usedgames.ca/ra-2005.html?source=bgg,79.95,CAD,1,1
 3208,https://www.usedgames.ca/dragonland-2002.html?source=bgg,19.95,CAD,1,1
 18602,https://www.usedgames.ca/caylus-2005.html?source=bgg,39.95,CAD,1,1
-1945,https://www.usedgames.ca/ultimatum-1985.html?source=bgg,19.95,CAD,1,1
 18,https://www.usedgames.ca/roborally-1994.html?source=bgg,89.95,CAD,1,1
 18,https://www.usedgames.ca/roborally-2005.html?source=bgg,69.95,CAD,1,1
 21946,https://www.usedgames.ca/high-5-1992-nis.html?source=bgg,19.95,CAD,1,1
@@ -378,11 +375,10 @@ gameid,url,price,currency,enabled,show_from
 43111,https://www.usedgames.ca/chaos-in-the-old-world-consignment.html?source=bgg,185.00,CAD,1,1
 6624,https://www.usedgames.ca/plott-adventures-in-space-board-game.html?source=bgg,19.00,CAD,1,1
 38548,https://www.usedgames.ca/fast-flowing-forest-fellers-board-game-nis.html?source=bgg,24.00,CAD,1,1
-25,https://www.usedgames.ca/battlemist-board-game-the-stars-of-timorran-nis-19.html?source=bgg,79.00,CAD,1,1
+25,https://www.usedgames.ca/copy-of-battlemist-board-game-the-stars-of-timorra.html?source=bgg,79.00,CAD,1,1
 6552,https://www.usedgames.ca/cashflow-investing-101-board-game-used-2002.html?source=bgg,44.95,CAD,1,1
-130877,https://www.usedgames.ca/blood-bound-board-game-used-2013.html?source=bgg,9.95,CAD,1,1
 40629,https://www.usedgames.ca/copy-of-bakong-2009.html?source=bgg,12.95,CAD,1,1
-25,https://www.usedgames.ca/battlemist-board-game-the-stars-of-timorran-nis-19.html?source=bgg,69.95,CAD,1,1
+25,https://www.usedgames.ca/copy-of-battlemist-board-game-the-stars-of-timorra.html?source=bgg,69.95,CAD,1,1
 18886,https://www.usedgames.ca/gourmet-challenge-wine-food-trivia-game-19.html?source=bgg,59.95,CAD,1,1
 1294,https://www.usedgames.ca/copy-of-clue-1996.html?source=bgg,9.95,CAD,1,1
 22038,https://www.usedgames.ca/copy-of-warrior-knights-2006.html?source=bgg,36.95,CAD,1,1

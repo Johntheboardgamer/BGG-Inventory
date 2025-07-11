@@ -54,7 +54,6 @@ gameid,url,price,currency,enabled,show_from
 349676,https://www.usedgames.ca/iq-2000-transcanada-trivia.html?source=bgg,34.95,CAD,1,1
 4061,https://www.usedgames.ca/tiles.html?source=bgg,14.95,CAD,1,1
 9794,https://www.usedgames.ca/rummoli-deluxe.html?source=bgg,9.95,CAD,1,1
-320,https://www.usedgames.ca/scrabble-deluxe-travel-edition.html?source=bgg,29.95,CAD,1,1
 320,https://www.usedgames.ca/scrabble-original.html?source=bgg,34.95,CAD,1,1
 37988,https://www.usedgames.ca/trivial-pursuit-25th-anniversary-edition.html?source=bgg,19.95,CAD,1,1
 9027,https://www.usedgames.ca/oasis.html?source=bgg,24.95,CAD,1,1
@@ -207,7 +206,6 @@ gameid,url,price,currency,enabled,show_from
 13219,https://www.usedgames.ca/scrabble-upper-hand-1981.html?source=bgg,19.95,CAD,1,1
 12588,https://www.usedgames.ca/asterix-the-board-game-1990.html?source=bgg,4.95,CAD,1,1
 6752,https://www.usedgames.ca/attack-2003.html?source=bgg,24.95,CAD,1,1
-7824,https://www.usedgames.ca/break-the-safe-2003.html?source=bgg,9.95,CAD,1,1
 12428,https://www.usedgames.ca/all-ears-1992.html?source=bgg,29.95,CAD,1,1
 5,https://www.usedgames.ca/acquire-1968.html?source=bgg,69.95,CAD,1,1
 20018,https://www.usedgames.ca/aloha-2005.html?source=bgg,24.95,CAD,1,1
@@ -219,7 +217,7 @@ gameid,url,price,currency,enabled,show_from
 223,https://www.usedgames.ca/expedition-1996-nis.html?source=bgg,49.95,CAD,1,1
 31745,https://www.usedgames.ca/utopia-2007.html?source=bgg,29.95,CAD,1,1
 2921,https://www.usedgames.ca/the-game-of-life-2007.html?source=bgg,9.95,CAD,1,1
-870,https://www.usedgames.ca/empires-of-the-ancient-world-2000-nis.html?source=bgg,99.95,CAD,1,1
+870,https://www.usedgames.ca/copy-of-empires-of-the-ancient-world-2000-nis.html?source=bgg,99.95,CAD,1,1
 13384,https://www.usedgames.ca/election-usa-2004-nis.html?source=bgg,29.95,CAD,1,1
 18289,https://www.usedgames.ca/key-largo-2005.html?source=bgg,19.95,CAD,1,1
 30370,https://www.usedgames.ca/eti-estimated-time-to-invasion-2008.html?source=bgg,39.95,CAD,1,1
@@ -515,7 +513,6 @@ gameid,url,price,currency,enabled,show_from
 11829,https://www.usedgames.ca/word-nerd-used-board-game-1979.html?source=bgg,8.45,CAD,1,1
 6803,https://www.usedgames.ca/pacru-used-board-game-2004-incomplete-missing-3-ma.html?source=bgg,9.95,CAD,1,1
 2297,https://www.usedgames.ca/us-patent-no-1-2001-nis.html?source=bgg,29.95,CAD,1,1
-24439,https://www.usedgames.ca/ticket-to-ride-usa-1910-2006-cards-are-sealed.html?source=bgg,19.95,CAD,1,1
 22038,https://www.usedgames.ca/copy-of-warrior-knights-2006.html?source=bgg,36.95,CAD,1,1
 87200,https://www.usedgames.ca/dragon-valley-used-board-game-2011-unpunched.html?source=bgg,19.95,CAD,1,1
 155703,https://www.usedgames.ca/evolution-used-board-game-2014.html?source=bgg,34.95,CAD,1,1
@@ -615,7 +612,16 @@ gameid,url,price,currency,enabled,show_from
 30267,https://www.usedgames.ca/franchise-mania-nis-1999.html?source=bgg,19.95,CAD,1,1
 12242,https://www.usedgames.ca/bluffers-beware-used-board-game-1992.html?source=bgg,34.95,CAD,1,1
 19748,https://www.usedgames.ca/moneywise-used-board-game-1988.html?source=bgg,24.95,CAD,1,1
+793,https://www.usedgames.ca/copy-of-last-chance-used-board-game-1994.html?source=bgg,24.95,CAD,1,1
+793,https://www.usedgames.ca/copy-of-last-chance-used-board-game-1994.html?source=bgg,39.95,CAD,1,1
+4267,https://www.usedgames.ca/jaunty-jalopies-used-board-game-2002-66764359.html?source=bgg,19.95,CAD,1,1
 870,https://www.usedgames.ca/copy-of-empires-of-the-ancient-world-2000-nis.html?source=bgg,84.95,CAD,1,1
+13121,https://www.usedgames.ca/kablamo-used-board-game-2004.html?source=bgg,18.95,CAD,1,1
+8975,https://www.usedgames.ca/hawaiian-punch-used-board-game-1978.html?source=bgg,69.95,CAD,1,1
+5705,https://www.usedgames.ca/fat-albert-and-the-cosby-kids-used-box-game-1973.html?source=bgg,44.95,CAD,1,1
+1099,https://www.usedgames.ca/downfall-used-board-game-1985.html?source=bgg,22.95,CAD,1,1
+8309,https://www.usedgames.ca/die-check-used-board-game-1972-wooden-pieces.html?source=bgg,44.95,CAD,1,1
 1656,https://www.usedgames.ca/copy-of-smokers-wild-1978-a.html?source=bgg,29.95,CAD,1,1
 19999,https://www.usedgames.ca/aton-2005-used.html?source=bgg,19.95,CAD,1,1
+714,https://www.usedgames.ca/talisman-revised-4th-edition-2007-this-is-4th-edit.html?source=bgg,140.95,CAD,1,1
 32391,https://www.usedgames.ca/battlelore-scottish-wars-2007.html?source=bgg,59.00,CAD,1,1

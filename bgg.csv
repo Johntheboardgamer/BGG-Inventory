@@ -33,7 +33,6 @@ gameid,url,price,currency,enabled,show_from
 8284,https://www.usedgames.ca/assault-tactical-combat-in-europe-1985.html?source=bgg,34.95,CAD,1,1
 4921,https://www.usedgames.ca/3rd-fleet.html?source=bgg,199.95,CAD,1,1
 2073,https://www.usedgames.ca/sixth-fleet-34574605.html?source=bgg,39.95,CAD,1,1
-19535,https://www.usedgames.ca/murder-a-la-carte.html?source=bgg,14.95,CAD,1,1
 5485,https://www.usedgames.ca/atlantic-wall-the-invasion-of-europe-june-1944.html?source=bgg,179.95,CAD,1,1
 16701,https://www.usedgames.ca/birthday-gamesake.html?source=bgg,19.95,CAD,1,1
 1923,https://www.usedgames.ca/mindtrap.html?source=bgg,9.95,CAD,1,1
@@ -92,6 +91,7 @@ gameid,url,price,currency,enabled,show_from
 69356,https://www.usedgames.ca/kalua.html?source=bgg,14.95,CAD,1,1
 18849,https://www.usedgames.ca/murder-a-la-carte-41137814.html?source=bgg,14.95,CAD,1,1
 7957,https://www.usedgames.ca/franchisit.html?source=bgg,24.95,CAD,1,1
+21434,https://www.usedgames.ca/final-strategy.html?source=bgg,34.95,CAD,1,1
 32666,https://www.usedgames.ca/wealth-of-nations.html?source=bgg,149.95,CAD,1,1
 38453,https://www.usedgames.ca/space-alert.html?source=bgg,34.95,CAD,1,1
 8933,https://www.usedgames.ca/happiness.html?source=bgg,24.95,CAD,1,1
@@ -100,7 +100,6 @@ gameid,url,price,currency,enabled,show_from
 986,https://www.usedgames.ca/babel.html?source=bgg,49.95,CAD,1,1
 7,https://www.usedgames.ca/cathedral.html?source=bgg,14.95,CAD,1,1
 120,https://www.usedgames.ca/adel-verphlichtet.html?source=bgg,54.95,CAD,1,1
-2379,https://www.usedgames.ca/guesstures-1999-nib-almost.html?source=bgg,44.95,CAD,1,1
 104377,https://www.usedgames.ca/tschak-nib.html?source=bgg,24.95,CAD,1,1
 1549,https://www.usedgames.ca/password-volume-8.html?source=bgg,14.95,CAD,1,1
 1549,https://www.usedgames.ca/copy-of-password-volume-8.html?source=bgg,14.95,CAD,1,1
@@ -149,7 +148,7 @@ gameid,url,price,currency,enabled,show_from
 461,https://www.usedgames.ca/freibeuter-1998.html?source=bgg,24.95,CAD,1,1
 2949,https://www.usedgames.ca/dune-space-harvest-1984-nis.html?source=bgg,324.95,CAD,1,1
 2950,https://www.usedgames.ca/dune-the-duel-1984-nis.html?source=bgg,169.95,CAD,1,1
-110277,https://www.usedgames.ca/among-the-stars-2012-57876183.html?source=bgg,24.95,CAD,1,1
+110277,https://www.usedgames.ca/among-the-stars-2012.html?source=bgg,24.95,CAD,1,1
 156976,https://www.usedgames.ca/planes-2014.html?source=bgg,19.95,CAD,1,1
 7995,https://www.usedgames.ca/quits-1990-nis.html?source=bgg,29.95,CAD,1,1
 102680,https://www.usedgames.ca/trajan-2011.html?source=bgg,34.95,CAD,1,1
@@ -200,9 +199,8 @@ gameid,url,price,currency,enabled,show_from
 5696,https://www.usedgames.ca/crisis-1975.html?source=bgg,24.95,CAD,1,1
 13219,https://www.usedgames.ca/scrabble-upper-hand-1981.html?source=bgg,19.95,CAD,1,1
 12588,https://www.usedgames.ca/asterix-the-board-game-1990.html?source=bgg,4.95,CAD,1,1
-6752,https://www.usedgames.ca/attack-2003.html?source=bgg,24.95,CAD,1,1
+6752,https://www.usedgames.ca/attack-2003-nis.html?source=bgg,24.95,CAD,1,1
 12428,https://www.usedgames.ca/all-ears-1992.html?source=bgg,29.95,CAD,1,1
-5,https://www.usedgames.ca/acquire-1968.html?source=bgg,24.95,CAD,1,1
 20018,https://www.usedgames.ca/aloha-2005.html?source=bgg,24.95,CAD,1,1
 956,https://www.usedgames.ca/azteca-1998.html?source=bgg,29.95,CAD,1,1
 1931,https://www.usedgames.ca/anti-monopoly-1973.html?source=bgg,24.95,CAD,1,1
@@ -275,7 +273,7 @@ gameid,url,price,currency,enabled,show_from
 136238,https://www.usedgames.ca/rofl-2013.html?source=bgg,14.95,CAD,1,1
 171779,https://www.usedgames.ca/gempacked-cards-2015-nis.html?source=bgg,29.95,CAD,1,1
 443,https://www.usedgames.ca/code-777-25th-anniversary-edition-2010.html?source=bgg,49.95,CAD,1,1
-110277,https://www.usedgames.ca/among-the-stars-2012-57876183.html?source=bgg,24.95,CAD,1,1
+110277,https://www.usedgames.ca/among-the-stars-2012.html?source=bgg,24.95,CAD,1,1
 8645,https://www.usedgames.ca/20th-century-time-travel-card-game-2003-nis.html?source=bgg,39.95,CAD,1,1
 1247,https://www.usedgames.ca/gangland-1996.html?source=bgg,49.95,CAD,1,1
 53403,https://www.usedgames.ca/battleship-gi-joe-the-rise-of-cobra-edition-2009.html?source=bgg,19.95,CAD,1,1
@@ -442,7 +440,6 @@ gameid,url,price,currency,enabled,show_from
 21946,https://www.usedgames.ca/high-5-1992.html?source=bgg,9.95,CAD,1,1
 24396,https://www.usedgames.ca/war-on-terror-the-boardgame-used-2006.html?source=bgg,79.95,CAD,1,1
 36776,https://www.usedgames.ca/bone-didley-used-board-game-1970-est-63206692.html?source=bgg,14.95,CAD,1,1
-11849,https://www.usedgames.ca/fishing-frenzy-used-board-game-1995.html?source=bgg,18.95,CAD,1,1
 5509,https://www.usedgames.ca/diangle-nis-board-game-1999.html?source=bgg,24.95,CAD,1,1
 860,https://www.usedgames.ca/scotland-the-brave-used-board-game-1998-unpunched.html?source=bgg,9.95,CAD,1,1
 589,https://www.usedgames.ca/wiz-war-used-board-game-1993.html?source=bgg,49.95,CAD,1,1
@@ -555,6 +552,7 @@ gameid,url,price,currency,enabled,show_from
 2582,https://www.usedgames.ca/catch-phrase-used-board-game-2007.html?source=bgg,24.95,CAD,1,1
 24467,https://www.usedgames.ca/post-office-used-board-games-1968.html?source=bgg,14.95,CAD,1,1
 39569,https://www.usedgames.ca/global-ody-see-used-board-game-2008.html?source=bgg,39.95,CAD,1,1
+5641,https://www.usedgames.ca/nightmare-used-board-game-1991.html?source=bgg,74.95,CAD,1,1
 1659,https://www.usedgames.ca/beat-detroit-used-board-game-1972.html?source=bgg,19.95,CAD,1,1
 2356,https://www.usedgames.ca/scrabble-sentence-cube-game-used-board-game-1983.html?source=bgg,19.95,CAD,1,1
 1665,https://www.usedgames.ca/airport-used-board-game-1972.html?source=bgg,24.95,CAD,1,1
@@ -563,6 +561,7 @@ gameid,url,price,currency,enabled,show_from
 31105,https://www.usedgames.ca/archaeology-the-card-game-nis-2007.html?source=bgg,49.95,CAD,1,1
 24037,https://www.usedgames.ca/escape-from-atlantis-parts-only-1986.html?source=bgg,24.95,CAD,1,1
 1987,https://www.usedgames.ca/emperor-of-china-used-board-game-1972.html?source=bgg,9.95,CAD,1,1
+5641,https://www.usedgames.ca/nightmare-used-board-game-1991.html?source=bgg,84.95,CAD,1,1
 10900,https://www.usedgames.ca/nightmare-ii-used-board-game-1991-missing-1-card.html?source=bgg,29.95,CAD,1,1
 93039,https://www.usedgames.ca/the-racing-horse-game-board-only-2006.html?source=bgg,14.95,CAD,1,1
 380,https://www.usedgames.ca/copy-of-polarity-used-board-game-2006-a-66704561.html?source=bgg,54.95,CAD,1,1
